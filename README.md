@@ -1,14 +1,2 @@
-# peg-thing-game
-
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2019 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+# Peg triangle game
+A simple implementation of Peg triangle game based on the exercise of the book "Clojure for the Brave and True", on the chapter that teaches about Functional Programming: https://www.braveclojure.com/functional-programming/
